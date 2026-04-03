@@ -10,26 +10,38 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "aws-amplify": "^6.16.3",
+=======
+>>>>>>> fadd9b24b40ea07589f62dd4d585e139697f8df6
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@aws-amplify/backend": "^1.22.0",
     "@aws-amplify/backend-cli": "^1.8.2",
+=======
+>>>>>>> fadd9b24b40ea07589f62dd4d585e139697f8df6
     "@eslint/js": "^9.39.4",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.1",
+<<<<<<< HEAD
     "aws-cdk-lib": "^2.234.1",
     "constructs": "^10.6.0",
     "esbuild": "^0.28.0",
+=======
+>>>>>>> fadd9b24b40ea07589f62dd4d585e139697f8df6
     "eslint": "^9.39.4",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.4.0",
+<<<<<<< HEAD
     "tsx": "^4.21.0",
     "typescript": "^5.9.3",
+=======
+>>>>>>> fadd9b24b40ea07589f62dd4d585e139697f8df6
     "vite": "^8.0.1"
   }
 }
